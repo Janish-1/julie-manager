@@ -2,6 +2,12 @@
   "expo": {
     "name": "julie-manager",
     "slug": "julie-manager",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.juliemanager"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.juliemanager"
+    }
   }
 }

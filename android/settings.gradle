@@ -1,4 +1,4 @@
-rootProject.name = 'juliemanager'
+rootProject.name = 'julie-manager'
 
 dependencyResolutionManagement {
   versionCatalogs {
